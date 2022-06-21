@@ -22,7 +22,7 @@ export default function Header() {
                   <div className="collaps navbar-colapse" id="collapsibleNavId">
                       <ul className="navbar-nav ml-auto mt-2 mt-lg-0">
                           <li className="nav-item active">
-                              <Link className="nav-link" to="/">
+                              <Link className="nav-link" to="/weatherapp">
                                   Home<i className="fa fa-home m-1"></i>
                               </Link>
                           </li>
